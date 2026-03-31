@@ -64,7 +64,10 @@ Looking for:
 
 ## 📂 Проекты / Projects
 
-🔹 Скоро добавлю сюда / Coming soon  
+🔹 ### [SkillSwap](https://github.com/aveyanchoo/SkillSwap_project)
+Frontend проект на React для обмена навыками.  
+Реализованы: система лайков, динамический интерфейс, интерактивные карточки навыков.  
+Стек: React, JavaScript, CSS. 
 
 ---
 
